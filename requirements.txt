@@ -1,0 +1,17 @@
+python-dotenv 
+colorama
+deepgram-sdk 
+numpy 
+openai 
+groq
+redis
+wave
+fastapi
+uvicorn
+websockets
+pydantic
+pydantic-settings
+pydub
+vosk
+webrtcvad
+coloredlogs
